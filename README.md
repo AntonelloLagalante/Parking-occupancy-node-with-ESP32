@@ -1,5 +1,5 @@
 # Parking-occupancy-node-with-ESP32
-Project held at the Politecnico di Milano in the exam "Internet of Things" held by prof. Cesena.
+Project held at the Politecnico di Milano in the exam "Internet of Things" held by Prof. Cesena, Prof Boiano and Prof. Palmese.
 
 The aim of this project is to develop and simulate on WokWi a simple parking occupancy node using an ESP32 microcontroller and the HC-SR04 ultrasonic distance sensor. 
 
